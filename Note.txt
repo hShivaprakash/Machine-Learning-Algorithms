@@ -1,0 +1,4 @@
+All the images along with the names are placed in the pdf document.
+We have also cretaed  a .ipynb to run all the test cases, so that it will be easier. 
+
+Thank You.
